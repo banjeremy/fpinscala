@@ -66,5 +66,3 @@ val x = List(1, 2, 3, 4, 5) match {
 }
 
 List.tail(List(1,2,3))
-
-// 3.3
